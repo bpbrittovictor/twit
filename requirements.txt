@@ -1,0 +1,16 @@
+os
+sys 
+pandas as pd
+numpy as np
+re
+pypyodbc
+datetime
+calendar
+time
+nltk
+nltk.sentiment.vader
+nltk.corpus
+nltk.tokenize
+nltk.stem
+collections
+nltk.stem
